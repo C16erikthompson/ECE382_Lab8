@@ -2,7 +2,9 @@ ECE382_Lab8
 ===========
 #Prelab
 ###Schematic
-Same schematic for locomotion utilized in Lab 6, same schematic for ADL utilized in lab 7.  Combine them for lab 8
+Same schematic for locomotion utilized in Lab 6, same schematic for ADL utilized in lab 7.  Combine them for lab 8.
+![alt tag](http://i47.photobucket.com/albums/f189/erik_thompson2/IMG_20141212_155614_0811_zpsf01f22aa.jpg
+ "TO-220 Config")
 ###Pseudo Code
 •	Move forward until front sensor notices a wall (while front censor is false), then stop [moveForward(), checkFront()]   
 •	Rotate 90 degrees to the left, check front sensor for wall [rotateLeft(), checkFront()]   
