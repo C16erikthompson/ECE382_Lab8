@@ -55,6 +55,6 @@ http://vid47.photobucket.com/albums/f189/erik_thompson2/VID_20141208_222112_5452
 - My robot could not move in a straight line, so I had to make it move rather slow so that it could constantly check the sensors
 - I had issues with the sensors picking up too much voltage or being unable to distinguish distance very well, so I had to reblind them
 - One robot I was using eventually became unable to turn its right wheel in accordance with the programming, so i had to build my design on another robot eventually
-
+- Trying to find the amount I wanted the robot to turn to correct itself was onerous, resulting in me making a number of new variables and methods to experiment with
 #Documentation
 None
